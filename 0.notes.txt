@@ -1,0 +1,21 @@
+expo init <app name>
+code . <to open vs code>
+expo start <to start run the app>
+npm run android
+install vysor
+yarn add react-native-paper
+color picker to take a color
+react native paper
+unsplash.com to take a photo
+expo install expo-linear-gradient
+http://cloudinary.com
+to create server 
+npm init 
+npm install express body-parser mongoose
+nodemon app
+
+build new app
+build new cluster
+build new user
+npm install ngrok -g
+ngrok http 3000
